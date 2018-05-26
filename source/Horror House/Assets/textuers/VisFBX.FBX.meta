@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 0b4241d5c7e509a4b9ae746054e48f37
+timeCreated: 1523645406
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box07
+    100002: Drop Visionnaire 41x15x43h
+    100004: Fob
+    100006: Group09
+    100008: Group10
+    100010: Group11
+    100012: Group12
+    100014: Line08
+    100016: Line09
+    100018: Line10
+    100020: Plane01
+    100022: Shape07
+    100024: Shape08
+    100026: Shape09
+    100028: Shape10
+    100030: //RootNode
+    100032: VRayLight05
+    100034: VRayLight07
+    100036: VRayLight08
+    100038: VRayLight10
+    100040: VRayLight11
+    100042: VRayLight12
+    100044: VRayLight13
+    100046: VRayPhysicalCamera01
+    100048: VRayPhysicalCamera01.Target
+    400000: Box07
+    400002: Drop Visionnaire 41x15x43h
+    400004: Fob
+    400006: Group09
+    400008: Group10
+    400010: Group11
+    400012: Group12
+    400014: Line08
+    400016: Line09
+    400018: Line10
+    400020: Plane01
+    400022: Shape07
+    400024: Shape08
+    400026: Shape09
+    400028: Shape10
+    400030: //RootNode
+    400032: VRayLight05
+    400034: VRayLight07
+    400036: VRayLight08
+    400038: VRayLight10
+    400040: VRayLight11
+    400042: VRayLight12
+    400044: VRayLight13
+    400046: VRayPhysicalCamera01
+    400048: VRayPhysicalCamera01.Target
+    2000000: VRayPhysicalCamera01
+    2100000: VRayMtl_20
+    2100002: 'Material #34187831'
+    2100004: 'Material #2124202805'
+    2100006: 04 - Default
+    2100008: 10 - Default
+    2300000: Box07
+    2300002: Fob
+    2300004: Line08
+    2300006: Line09
+    2300008: Line10
+    2300010: Plane01
+    2300012: Shape07
+    2300014: Shape08
+    2300016: Shape09
+    2300018: Shape10
+    3300000: Box07
+    3300002: Fob
+    3300004: Line08
+    3300006: Line09
+    3300008: Line10
+    3300010: Plane01
+    3300012: Shape07
+    3300014: Shape08
+    3300016: Shape09
+    3300018: Shape10
+    4300000: Fob
+    4300002: Box07
+    4300004: Plane01
+    4300006: Shape08
+    4300008: Shape07
+    4300010: Line08
+    4300012: Shape09
+    4300014: Shape10
+    4300016: Line09
+    4300018: Line10
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

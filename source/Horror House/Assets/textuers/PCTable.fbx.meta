@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 539c56b9517409b4bbdd4807e9bb38f9
+timeCreated: 1523668348
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackWall
+    100002: Door
+    100004: DoorPieceOnWall
+    100006: DoorPieceOnWall.001
+    100008: DoorPieceOnWall.002
+    100010: DoorTak
+    100012: DorPin
+    100014: DorPin.001
+    100016: DorPin.002
+    100018: Frame
+    100020: Frame.001
+    100022: InsideShelfLower
+    100024: InsideShelUpper
+    100026: LowerWall
+    100028: Main Body
+    100030: Nail
+    100032: //RootNode
+    100034: plastic
+    100036: Platic
+    100038: RolerLeft
+    100040: RolerLeft.001
+    100042: RWall
+    100044: Screw
+    100046: Screw.001
+    100048: Screw.002
+    100050: Screw.003
+    100052: Screw.004
+    100054: Screw.005
+    100056: ShelfLower
+    100058: ShelfUpper
+    100060: Support
+    100062: Wood
+    400000: BackWall
+    400002: Door
+    400004: DoorPieceOnWall
+    400006: DoorPieceOnWall.001
+    400008: DoorPieceOnWall.002
+    400010: DoorTak
+    400012: DorPin
+    400014: DorPin.001
+    400016: DorPin.002
+    400018: Frame
+    400020: Frame.001
+    400022: InsideShelfLower
+    400024: InsideShelUpper
+    400026: LowerWall
+    400028: Main Body
+    400030: Nail
+    400032: //RootNode
+    400034: plastic
+    400036: Platic
+    400038: RolerLeft
+    400040: RolerLeft.001
+    400042: RWall
+    400044: Screw
+    400046: Screw.001
+    400048: Screw.002
+    400050: Screw.003
+    400052: Screw.004
+    400054: Screw.005
+    400056: ShelfLower
+    400058: ShelfUpper
+    400060: Support
+    400062: Wood
+    2100000: Material.002
+    2100002: Material.003
+    2100004: Material
+    2100006: Material.001
+    2100008: No Name
+    2300000: BackWall
+    2300002: Door
+    2300004: DoorPieceOnWall
+    2300006: DoorPieceOnWall.001
+    2300008: DoorPieceOnWall.002
+    2300010: DoorTak
+    2300012: DorPin
+    2300014: DorPin.001
+    2300016: DorPin.002
+    2300018: Frame
+    2300020: Frame.001
+    2300022: InsideShelfLower
+    2300024: InsideShelUpper
+    2300026: LowerWall
+    2300028: Main Body
+    2300030: Nail
+    2300032: plastic
+    2300034: Platic
+    2300036: RolerLeft
+    2300038: RolerLeft.001
+    2300040: RWall
+    2300042: Screw
+    2300044: Screw.001
+    2300046: Screw.002
+    2300048: Screw.003
+    2300050: Screw.004
+    2300052: Screw.005
+    2300054: ShelfLower
+    2300056: ShelfUpper
+    2300058: Support
+    2300060: Wood
+    3300000: BackWall
+    3300002: Door
+    3300004: DoorPieceOnWall
+    3300006: DoorPieceOnWall.001
+    3300008: DoorPieceOnWall.002
+    3300010: DoorTak
+    3300012: DorPin
+    3300014: DorPin.001
+    3300016: DorPin.002
+    3300018: Frame
+    3300020: Frame.001
+    3300022: InsideShelfLower
+    3300024: InsideShelUpper
+    3300026: LowerWall
+    3300028: Main Body
+    3300030: Nail
+    3300032: plastic
+    3300034: Platic
+    3300036: RolerLeft
+    3300038: RolerLeft.001
+    3300040: RWall
+    3300042: Screw
+    3300044: Screw.001
+    3300046: Screw.002
+    3300048: Screw.003
+    3300050: Screw.004
+    3300052: Screw.005
+    3300054: ShelfLower
+    3300056: ShelfUpper
+    3300058: Support
+    3300060: Wood
+    4300000: Screw.005
+    4300002: Screw.004
+    4300004: Screw.003
+    4300006: Screw.002
+    4300008: Screw.001
+    4300010: DorPin.002
+    4300012: DoorPieceOnWall.002
+    4300014: DoorPieceOnWall.001
+    4300016: DorPin.001
+    4300018: RolerLeft.001
+    4300020: plastic
+    4300022: Frame
+    4300024: Wood
+    4300026: Frame.001
+    4300028: RolerLeft
+    4300030: Platic
+    4300032: DoorTak
+    4300034: Door
+    4300036: DorPin
+    4300038: DoorPieceOnWall
+    4300040: Nail
+    4300042: Support
+    4300044: InsideShelUpper
+    4300046: InsideShelfLower
+    4300048: BackWall
+    4300050: RWall
+    4300052: ShelfUpper
+    4300054: ShelfLower
+    4300056: LowerWall
+    4300058: Screw
+    4300060: Main Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

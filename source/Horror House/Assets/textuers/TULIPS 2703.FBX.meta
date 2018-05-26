@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: b9e1c05350c4f234d887cb993e351a30
+timeCreated: 1523811443
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: Particle View 01
+    100004: Plane279
+    100006: Plane280
+    100008: Plane281
+    100010: Plane282
+    100012: Plane283
+    100014: Plane284
+    100016: Plane285
+    100018: Plane286
+    100020: Plane287
+    100022: Plane288
+    100024: Plane289
+    100026: Plane290
+    100028: Plane291
+    100030: 'tulips 1203 L BUTON '
+    100032: tulips 1203 L BUTON 001
+    100034: tulips 1203 L001
+    100036: tulips 1203 M 001
+    100038: tulips 1203 M 002
+    100040: tulips 1203 M 003
+    100042: tulips 1203 M BUTON 001
+    100044: tulips 1203 M BUTON 002
+    100046: tulips 1203 M BUTON 003
+    100048: tulips 1203 M BUTON 004
+    100050: tulips 1203 M BUTON 005
+    100052: tulips 1203 M BUTON 006
+    100054: tulips 1203 M BUTON 007
+    100056: tulips 1203 M BUTON 008
+    100058: tulips 1203 M BUTON 009
+    100060: tulips 1203 M BUTON 010
+    100062: tulips 1203 M BUTON 011
+    100064: tulips 1203 M BUTON 012
+    100066: tulips 1203 M BUTON 013
+    100068: tulips 1203 M BUTON 014
+    100070: tulips 1203 M BUTON 015
+    100072: tulips 1203 M BUTON 016
+    100074: tulips 1203 M BUTON 017
+    100076: tulips 1203 M BUTON 018
+    100078: tulips 1203 M BUTON 019
+    100080: tulips 1203 M BUTON 039
+    100082: tulips 1203 S BUTON 001
+    100084: tulips 1203 S BUTON 002
+    100086: tulips 1203 S BUTON 003
+    100088: tulips 1203 S BUTON 004
+    100090: tulips 1203 S BUTON 005
+    100092: tulips 1203 XL001
+    100094: tulips 1203 XL002
+    100096: tulips 1203 XL003
+    100098: tulips 1203 XL004
+    100100: tulips 1203 XL005
+    100102: tulips 1203 XL006
+    100104: tulips 1203 XL007
+    100106: tulips 1203 XL008
+    100108: tulips 1203 XL009
+    100110: tulips 1203 XL010
+    100112: tulips 1203 XL011
+    100114: tulips 1203 XL012
+    100116: tulips 1203 XL013
+    100118: tulips 1203 XL014
+    100120: tulips 1203 XL015
+    100122: tulips 1203 XL016
+    100124: tulips 1203 XL017
+    100126: tulips 1203 XL018
+    100128: tulips 1203 XL019
+    100130: tulips 1203 XL020
+    100132: tulips 1203 XL021
+    100134: tulips 1203 XXL001
+    100136: tulips 1203 XXL002
+    100138: tulips 1203 XXL003
+    100140: tulips 1203 XXL004
+    100142: tulips 1203 XXL005
+    100144: tulips 1203 XXL006
+    100146: tulips 1203 XXL007
+    100148: tulips 1203 XXL008
+    100150: tulips 1203 XXL009
+    100152: tulips 1203 XXL010
+    100154: tulips 1203 XXL011
+    100156: tulips 1203 XXL012
+    100158: tulips 1203 XXL013
+    100160: tulips 1203 XXL015
+    100162: tulips 1203 XXL016
+    100164: tulips 1203 XXL017
+    100166: tulips 1203 XXL018
+    100168: tulips 1203 XXL019
+    100170: tulips 1203 XXL020
+    100172: tulips 1203 XXL021
+    100174: tulips 1203 XXL022
+    100176: tulips 1203 XXL023
+    100178: tulips 1203 XXL024
+    100180: tulips 1203 XXL025
+    100182: tulips 1203 XXL026
+    100184: tulips 1203 XXL027
+    100186: tulips 1203 XXL028
+    100188: tulips 1203 XXL029
+    100190: tulips 1203 XXL030
+    100192: tulips 1203 XXL031
+    100194: tulips 1203 XXL032
+    100196: tulips 1203 XXL033
+    100198: tulips 1203 XXL034
+    100200: tulips 1203 XXL035
+    100202: tulips 1203 XXL036
+    100204: tulips 1203 XXL037
+    100206: tulips 1203 XXL038
+    100208: tulips 1203 XXL039
+    100210: tulips 1203 XXL040
+    100212: tulips 1203 XXL041
+    100214: tulips 1203 XXL042
+    100216: tulips 1203 XXL043
+    100218: tulips 1203 XXL044
+    100220: tulips 1203 XXL045
+    100222: tulips 1203 XXL046
+    100224: tulips 1203 XXL047
+    100226: tulips 1203 XXL048
+    100228: tulips 1203 XXL049
+    100230: tulips 1203 XXL050
+    100232: tulips 1203 XXL051
+    100234: tulips 1203 XXL052
+    100236: tulips 1203 XXL053
+    100238: tulips 1203 XXL054
+    100240: tulips 1203 XXL055
+    100242: tulips 1203 XXL056
+    100244: tulips 1203 XXL057
+    100246: tulips 1203 XXL058
+    100248: tulips 1203 XXL059
+    100250: tulips 1203 XXL060
+    100252: tulips 1203 XXL061
+    100254: tulips 1203 XXL062
+    100256: tulips 1203 XXL063
+    100258: tulips 1203 XXL064
+    100260: tulips 1203 XXL065
+    100262: tulips 1203 XXL066
+    100264: tulips 1203 XXL067
+    100266: tulips 1203 XXL068
+    100268: tulips 1203 XXL069
+    100270: tulips 1203 XXL070
+    100272: tulips 1203 XXL071
+    100274: tulips 1203 XXL072
+    100276: tulips 1203 XXL073
+    100278: tulips 1203 XXL074
+    100280: tulips 1203 XXL075
+    100282: tulips 1203 XXL076
+    100284: tulips 1203 XXL077
+    100286: tulips 1203 XXL078
+    100288: tulips 1203 XXL079
+    100290: tulips 1203 XXL080
+    100292: //RootNode
+    400000: Cylinder001
+    400002: Particle View 01
+    400004: Plane279
+    400006: Plane280
+    400008: Plane281
+    400010: Plane282
+    400012: Plane283
+    400014: Plane284
+    400016: Plane285
+    400018: Plane286
+    400020: Plane287
+    400022: Plane288
+    400024: Plane289
+    400026: Plane290
+    400028: Plane291
+    400030: 'tulips 1203 L BUTON '
+    400032: tulips 1203 L BUTON 001
+    400034: tulips 1203 L001
+    400036: tulips 1203 M 001
+    400038: tulips 1203 M 002
+    400040: tulips 1203 M 003
+    400042: tulips 1203 M BUTON 001
+    400044: tulips 1203 M BUTON 002
+    400046: tulips 1203 M BUTON 003
+    400048: tulips 1203 M BUTON 004
+    400050: tulips 1203 M BUTON 005
+    400052: tulips 1203 M BUTON 006
+    400054: tulips 1203 M BUTON 007
+    400056: tulips 1203 M BUTON 008
+    400058: tulips 1203 M BUTON 009
+    400060: tulips 1203 M BUTON 010
+    400062: tulips 1203 M BUTON 011
+    400064: tulips 1203 M BUTON 012
+    400066: tulips 1203 M BUTON 013
+    400068: tulips 1203 M BUTON 014
+    400070: tulips 1203 M BUTON 015
+    400072: tulips 1203 M BUTON 016
+    400074: tulips 1203 M BUTON 017
+    400076: tulips 1203 M BUTON 018
+    400078: tulips 1203 M BUTON 019
+    400080: tulips 1203 M BUTON 039
+    400082: tulips 1203 S BUTON 001
+    400084: tulips 1203 S BUTON 002
+    400086: tulips 1203 S BUTON 003
+    400088: tulips 1203 S BUTON 004
+    400090: tulips 1203 S BUTON 005
+    400092: tulips 1203 XL001
+    400094: tulips 1203 XL002
+    400096: tulips 1203 XL003
+    400098: tulips 1203 XL004
+    400100: tulips 1203 XL005
+    400102: tulips 1203 XL006
+    400104: tulips 1203 XL007
+    400106: tulips 1203 XL008
+    400108: tulips 1203 XL009
+    400110: tulips 1203 XL010
+    400112: tulips 1203 XL011
+    400114: tulips 1203 XL012
+    400116: tulips 1203 XL013
+    400118: tulips 1203 XL014
+    400120: tulips 1203 XL015
+    400122: tulips 1203 XL016
+    400124: tulips 1203 XL017
+    400126: tulips 1203 XL018
+    400128: tulips 1203 XL019
+    400130: tulips 1203 XL020
+    400132: tulips 1203 XL021
+    400134: tulips 1203 XXL001
+    400136: tulips 1203 XXL002
+    400138: tulips 1203 XXL003
+    400140: tulips 1203 XXL004
+    400142: tulips 1203 XXL005
+    400144: tulips 1203 XXL006
+    400146: tulips 1203 XXL007
+    400148: tulips 1203 XXL008
+    400150: tulips 1203 XXL009
+    400152: tulips 1203 XXL010
+    400154: tulips 1203 XXL011
+    400156: tulips 1203 XXL012
+    400158: tulips 1203 XXL013
+    400160: tulips 1203 XXL015
+    400162: tulips 1203 XXL016
+    400164: tulips 1203 XXL017
+    400166: tulips 1203 XXL018
+    400168: tulips 1203 XXL019
+    400170: tulips 1203 XXL020
+    400172: tulips 1203 XXL021
+    400174: tulips 1203 XXL022
+    400176: tulips 1203 XXL023
+    400178: tulips 1203 XXL024
+    400180: tulips 1203 XXL025
+    400182: tulips 1203 XXL026
+    400184: tulips 1203 XXL027
+    400186: tulips 1203 XXL028
+    400188: tulips 1203 XXL029
+    400190: tulips 1203 XXL030
+    400192: tulips 1203 XXL031
+    400194: tulips 1203 XXL032
+    400196: tulips 1203 XXL033
+    400198: tulips 1203 XXL034
+    400200: tulips 1203 XXL035
+    400202: tulips 1203 XXL036
+    400204: tulips 1203 XXL037
+    400206: tulips 1203 XXL038
+    400208: tulips 1203 XXL039
+    400210: tulips 1203 XXL040
+    400212: tulips 1203 XXL041
+    400214: tulips 1203 XXL042
+    400216: tulips 1203 XXL043
+    400218: tulips 1203 XXL044
+    400220: tulips 1203 XXL045
+    400222: tulips 1203 XXL046
+    400224: tulips 1203 XXL047
+    400226: tulips 1203 XXL048
+    400228: tulips 1203 XXL049
+    400230: tulips 1203 XXL050
+    400232: tulips 1203 XXL051
+    400234: tulips 1203 XXL052
+    400236: tulips 1203 XXL053
+    400238: tulips 1203 XXL054
+    400240: tulips 1203 XXL055
+    400242: tulips 1203 XXL056
+    400244: tulips 1203 XXL057
+    400246: tulips 1203 XXL058
+    400248: tulips 1203 XXL059
+    400250: tulips 1203 XXL060
+    400252: tulips 1203 XXL061
+    400254: tulips 1203 XXL062
+    400256: tulips 1203 XXL063
+    400258: tulips 1203 XXL064
+    400260: tulips 1203 XXL065
+    400262: tulips 1203 XXL066
+    400264: tulips 1203 XXL067
+    400266: tulips 1203 XXL068
+    400268: tulips 1203 XXL069
+    400270: tulips 1203 XXL070
+    400272: tulips 1203 XXL071
+    400274: tulips 1203 XXL072
+    400276: tulips 1203 XXL073
+    400278: tulips 1203 XXL074
+    400280: tulips 1203 XXL075
+    400282: tulips 1203 XXL076
+    400284: tulips 1203 XXL077
+    400286: tulips 1203 XXL078
+    400288: tulips 1203 XXL079
+    400290: tulips 1203 XXL080
+    400292: //RootNode
+    2100000: tulips FLOWER 2603 5
+    2100002: tulips FLOWER 1403 22
+    2100004: tulips FLOWER 2603 3
+    2100006: tulips FLOWER 2603
+    2100008: tulips 1203 20
+    2100010: tulips LEAF 1403
+    2100012: TULIP 1403 STVOL 12
+    2100014: tulips STVOL 0803 3
+    2100016: tulips STVOL 0803 4
+    2100018: tulips FLOWER 1403 20
+    2100020: tulips 2603 3
+    2100022: tulips 1203 33
+    2100024: tulips BUTON GREEN 1403
+    2100026: tulips 1203 26
+    2100028: GOLD 2603
+    2100030: tulips 1203 30
+    2100032: 'Material #1666 Slot #3'
+    2100034: 'Material #1688 Slot #3'
+    2300000: Cylinder001
+    2300002: Plane279
+    2300004: Plane280
+    2300006: Plane281
+    2300008: Plane282
+    2300010: Plane283
+    2300012: Plane284
+    2300014: Plane285
+    2300016: Plane286
+    2300018: Plane287
+    2300020: Plane288
+    2300022: Plane289
+    2300024: Plane290
+    2300026: Plane291
+    2300028: 'tulips 1203 L BUTON '
+    2300030: tulips 1203 L BUTON 001
+    2300032: tulips 1203 L001
+    2300034: tulips 1203 M 001
+    2300036: tulips 1203 M 002
+    2300038: tulips 1203 M 003
+    2300040: tulips 1203 M BUTON 001
+    2300042: tulips 1203 M BUTON 002
+    2300044: tulips 1203 M BUTON 003
+    2300046: tulips 1203 M BUTON 004
+    2300048: tulips 1203 M BUTON 005
+    2300050: tulips 1203 M BUTON 006
+    2300052: tulips 1203 M BUTON 007
+    2300054: tulips 1203 M BUTON 008
+    2300056: tulips 1203 M BUTON 009
+    2300058: tulips 1203 M BUTON 010
+    2300060: tulips 1203 M BUTON 011
+    2300062: tulips 1203 M BUTON 012
+    2300064: tulips 1203 M BUTON 013
+    2300066: tulips 1203 M BUTON 014
+    2300068: tulips 1203 M BUTON 015
+    2300070: tulips 1203 M BUTON 016
+    2300072: tulips 1203 M BUTON 017
+    2300074: tulips 1203 M BUTON 018
+    2300076: tulips 1203 M BUTON 019
+    2300078: tulips 1203 M BUTON 039
+    2300080: tulips 1203 S BUTON 001
+    2300082: tulips 1203 S BUTON 002
+    2300084: tulips 1203 S BUTON 003
+    2300086: tulips 1203 S BUTON 004
+    2300088: tulips 1203 S BUTON 005
+    2300090: tulips 1203 XL001
+    2300092: tulips 1203 XL002
+    2300094: tulips 1203 XL003
+    2300096: tulips 1203 XL004
+    2300098: tulips 1203 XL005
+    2300100: tulips 1203 XL006
+    2300102: tulips 1203 XL007
+    2300104: tulips 1203 XL008
+    2300106: tulips 1203 XL009
+    2300108: tulips 1203 XL010
+    2300110: tulips 1203 XL011
+    2300112: tulips 1203 XL012
+    2300114: tulips 1203 XL013
+    2300116: tulips 1203 XL014
+    2300118: tulips 1203 XL015
+    2300120: tulips 1203 XL016
+    2300122: tulips 1203 XL017
+    2300124: tulips 1203 XL018
+    2300126: tulips 1203 XL019
+    2300128: tulips 1203 XL020
+    2300130: tulips 1203 XL021
+    2300132: tulips 1203 XXL001
+    2300134: tulips 1203 XXL002
+    2300136: tulips 1203 XXL003
+    2300138: tulips 1203 XXL004
+    2300140: tulips 1203 XXL005
+    2300142: tulips 1203 XXL006
+    2300144: tulips 1203 XXL007
+    2300146: tulips 1203 XXL008
+    2300148: tulips 1203 XXL009
+    2300150: tulips 1203 XXL010
+    2300152: tulips 1203 XXL011
+    2300154: tulips 1203 XXL012
+    2300156: tulips 1203 XXL013
+    2300158: tulips 1203 XXL015
+    2300160: tulips 1203 XXL016
+    2300162: tulips 1203 XXL017
+    2300164: tulips 1203 XXL018
+    2300166: tulips 1203 XXL019
+    2300168: tulips 1203 XXL020
+    2300170: tulips 1203 XXL021
+    2300172: tulips 1203 XXL022
+    2300174: tulips 1203 XXL023
+    2300176: tulips 1203 XXL024
+    2300178: tulips 1203 XXL025
+    2300180: tulips 1203 XXL026
+    2300182: tulips 1203 XXL027
+    2300184: tulips 1203 XXL028
+    2300186: tulips 1203 XXL029
+    2300188: tulips 1203 XXL030
+    2300190: tulips 1203 XXL031
+    2300192: tulips 1203 XXL032
+    2300194: tulips 1203 XXL033
+    2300196: tulips 1203 XXL034
+    2300198: tulips 1203 XXL035
+    2300200: tulips 1203 XXL036
+    2300202: tulips 1203 XXL037
+    2300204: tulips 1203 XXL038
+    2300206: tulips 1203 XXL039
+    2300208: tulips 1203 XXL040
+    2300210: tulips 1203 XXL041
+    2300212: tulips 1203 XXL042
+    2300214: tulips 1203 XXL043
+    2300216: tulips 1203 XXL044
+    2300218: tulips 1203 XXL045
+    2300220: tulips 1203 XXL046
+    2300222: tulips 1203 XXL047
+    2300224: tulips 1203 XXL048
+    2300226: tulips 1203 XXL049
+    2300228: tulips 1203 XXL050
+    2300230: tulips 1203 XXL051
+    2300232: tulips 1203 XXL052
+    2300234: tulips 1203 XXL053
+    2300236: tulips 1203 XXL054
+    2300238: tulips 1203 XXL055
+    2300240: tulips 1203 XXL056
+    2300242: tulips 1203 XXL057
+    2300244: tulips 1203 XXL058
+    2300246: tulips 1203 XXL059
+    2300248: tulips 1203 XXL060
+    2300250: tulips 1203 XXL061
+    2300252: tulips 1203 XXL062
+    2300254: tulips 1203 XXL063
+    2300256: tulips 1203 XXL064
+    2300258: tulips 1203 XXL065
+    2300260: tulips 1203 XXL066
+    2300262: tulips 1203 XXL067
+    2300264: tulips 1203 XXL068
+    2300266: tulips 1203 XXL069
+    2300268: tulips 1203 XXL070
+    2300270: tulips 1203 XXL071
+    2300272: tulips 1203 XXL072
+    2300274: tulips 1203 XXL073
+    2300276: tulips 1203 XXL074
+    2300278: tulips 1203 XXL075
+    2300280: tulips 1203 XXL076
+    2300282: tulips 1203 XXL077
+    2300284: tulips 1203 XXL078
+    2300286: tulips 1203 XXL079
+    2300288: tulips 1203 XXL080
+    3300000: Cylinder001
+    3300002: Plane279
+    3300004: Plane280
+    3300006: Plane281
+    3300008: Plane282
+    3300010: Plane283
+    3300012: Plane284
+    3300014: Plane285
+    3300016: Plane286
+    3300018: Plane287
+    3300020: Plane288
+    3300022: Plane289
+    3300024: Plane290
+    3300026: Plane291
+    3300028: 'tulips 1203 L BUTON '
+    3300030: tulips 1203 L BUTON 001
+    3300032: tulips 1203 L001
+    3300034: tulips 1203 M 001
+    3300036: tulips 1203 M 002
+    3300038: tulips 1203 M 003
+    3300040: tulips 1203 M BUTON 001
+    3300042: tulips 1203 M BUTON 002
+    3300044: tulips 1203 M BUTON 003
+    3300046: tulips 1203 M BUTON 004
+    3300048: tulips 1203 M BUTON 005
+    3300050: tulips 1203 M BUTON 006
+    3300052: tulips 1203 M BUTON 007
+    3300054: tulips 1203 M BUTON 008
+    3300056: tulips 1203 M BUTON 009
+    3300058: tulips 1203 M BUTON 010
+    3300060: tulips 1203 M BUTON 011
+    3300062: tulips 1203 M BUTON 012
+    3300064: tulips 1203 M BUTON 013
+    3300066: tulips 1203 M BUTON 014
+    3300068: tulips 1203 M BUTON 015
+    3300070: tulips 1203 M BUTON 016
+    3300072: tulips 1203 M BUTON 017
+    3300074: tulips 1203 M BUTON 018
+    3300076: tulips 1203 M BUTON 019
+    3300078: tulips 1203 M BUTON 039
+    3300080: tulips 1203 S BUTON 001
+    3300082: tulips 1203 S BUTON 002
+    3300084: tulips 1203 S BUTON 003
+    3300086: tulips 1203 S BUTON 004
+    3300088: tulips 1203 S BUTON 005
+    3300090: tulips 1203 XL001
+    3300092: tulips 1203 XL002
+    3300094: tulips 1203 XL003
+    3300096: tulips 1203 XL004
+    3300098: tulips 1203 XL005
+    3300100: tulips 1203 XL006
+    3300102: tulips 1203 XL007
+    3300104: tulips 1203 XL008
+    3300106: tulips 1203 XL009
+    3300108: tulips 1203 XL010
+    3300110: tulips 1203 XL011
+    3300112: tulips 1203 XL012
+    3300114: tulips 1203 XL013
+    3300116: tulips 1203 XL014
+    3300118: tulips 1203 XL015
+    3300120: tulips 1203 XL016
+    3300122: tulips 1203 XL017
+    3300124: tulips 1203 XL018
+    3300126: tulips 1203 XL019
+    3300128: tulips 1203 XL020
+    3300130: tulips 1203 XL021
+    3300132: tulips 1203 XXL001
+    3300134: tulips 1203 XXL002
+    3300136: tulips 1203 XXL003
+    3300138: tulips 1203 XXL004
+    3300140: tulips 1203 XXL005
+    3300142: tulips 1203 XXL006
+    3300144: tulips 1203 XXL007
+    3300146: tulips 1203 XXL008
+    3300148: tulips 1203 XXL009
+    3300150: tulips 1203 XXL010
+    3300152: tulips 1203 XXL011
+    3300154: tulips 1203 XXL012
+    3300156: tulips 1203 XXL013
+    3300158: tulips 1203 XXL015
+    3300160: tulips 1203 XXL016
+    3300162: tulips 1203 XXL017
+    3300164: tulips 1203 XXL018
+    3300166: tulips 1203 XXL019
+    3300168: tulips 1203 XXL020
+    3300170: tulips 1203 XXL021
+    3300172: tulips 1203 XXL022
+    3300174: tulips 1203 XXL023
+    3300176: tulips 1203 XXL024
+    3300178: tulips 1203 XXL025
+    3300180: tulips 1203 XXL026
+    3300182: tulips 1203 XXL027
+    3300184: tulips 1203 XXL028
+    3300186: tulips 1203 XXL029
+    3300188: tulips 1203 XXL030
+    3300190: tulips 1203 XXL031
+    3300192: tulips 1203 XXL032
+    3300194: tulips 1203 XXL033
+    3300196: tulips 1203 XXL034
+    3300198: tulips 1203 XXL035
+    3300200: tulips 1203 XXL036
+    3300202: tulips 1203 XXL037
+    3300204: tulips 1203 XXL038
+    3300206: tulips 1203 XXL039
+    3300208: tulips 1203 XXL040
+    3300210: tulips 1203 XXL041
+    3300212: tulips 1203 XXL042
+    3300214: tulips 1203 XXL043
+    3300216: tulips 1203 XXL044
+    3300218: tulips 1203 XXL045
+    3300220: tulips 1203 XXL046
+    3300222: tulips 1203 XXL047
+    3300224: tulips 1203 XXL048
+    3300226: tulips 1203 XXL049
+    3300228: tulips 1203 XXL050
+    3300230: tulips 1203 XXL051
+    3300232: tulips 1203 XXL052
+    3300234: tulips 1203 XXL053
+    3300236: tulips 1203 XXL054
+    3300238: tulips 1203 XXL055
+    3300240: tulips 1203 XXL056
+    3300242: tulips 1203 XXL057
+    3300244: tulips 1203 XXL058
+    3300246: tulips 1203 XXL059
+    3300248: tulips 1203 XXL060
+    3300250: tulips 1203 XXL061
+    3300252: tulips 1203 XXL062
+    3300254: tulips 1203 XXL063
+    3300256: tulips 1203 XXL064
+    3300258: tulips 1203 XXL065
+    3300260: tulips 1203 XXL066
+    3300262: tulips 1203 XXL067
+    3300264: tulips 1203 XXL068
+    3300266: tulips 1203 XXL069
+    3300268: tulips 1203 XXL070
+    3300270: tulips 1203 XXL071
+    3300272: tulips 1203 XXL072
+    3300274: tulips 1203 XXL073
+    3300276: tulips 1203 XXL074
+    3300278: tulips 1203 XXL075
+    3300280: tulips 1203 XXL076
+    3300282: tulips 1203 XXL077
+    3300284: tulips 1203 XXL078
+    3300286: tulips 1203 XXL079
+    3300288: tulips 1203 XXL080
+    4300000: tulips 1203 XXL079
+    4300002: tulips 1203 XXL078
+    4300004: tulips 1203 XXL077
+    4300006: tulips 1203 XXL076
+    4300008: tulips 1203 XXL075
+    4300010: tulips 1203 XXL074
+    4300012: tulips 1203 XXL049
+    4300014: tulips 1203 XXL050
+    4300016: tulips 1203 XXL051
+    4300018: tulips 1203 XXL052
+    4300020: tulips 1203 XXL053
+    4300022: tulips 1203 XXL054
+    4300024: tulips 1203 XXL055
+    4300026: tulips 1203 XXL056
+    4300028: tulips 1203 XXL057
+    4300030: tulips 1203 XXL058
+    4300032: tulips 1203 XXL059
+    4300034: tulips 1203 XXL060
+    4300036: tulips 1203 XXL061
+    4300038: tulips 1203 XXL062
+    4300040: tulips 1203 XXL063
+    4300042: tulips 1203 XXL064
+    4300044: tulips 1203 XXL065
+    4300046: tulips 1203 XXL066
+    4300048: tulips 1203 XXL067
+    4300050: tulips 1203 XXL068
+    4300052: tulips 1203 XXL069
+    4300054: tulips 1203 XXL070
+    4300056: tulips 1203 XXL071
+    4300058: tulips 1203 XXL072
+    4300060: tulips 1203 XXL073
+    4300062: tulips 1203 XXL080
+    4300064: tulips 1203 XXL045
+    4300066: tulips 1203 XXL036
+    4300068: tulips 1203 M BUTON 016
+    4300070: tulips 1203 XXL008
+    4300072: tulips 1203 XXL009
+    4300074: tulips 1203 XXL011
+    4300076: tulips 1203 XL021
+    4300078: tulips 1203 XXL048
+    4300080: tulips 1203 XXL006
+    4300082: tulips 1203 XXL046
+    4300084: tulips 1203 XXL044
+    4300086: tulips 1203 XL001
+    4300088: tulips 1203 M BUTON 004
+    4300090: tulips 1203 M BUTON 039
+    4300092: tulips 1203 XL008
+    4300094: tulips 1203 M BUTON 008
+    4300096: tulips 1203 XXL042
+    4300098: tulips 1203 XXL041
+    4300100: tulips 1203 XXL040
+    4300102: tulips 1203 XXL039
+    4300104: tulips 1203 XXL038
+    4300106: Plane291
+    4300108: tulips 1203 S BUTON 003
+    4300110: tulips 1203 XXL034
+    4300112: tulips 1203 S BUTON 004
+    4300114: tulips 1203 XXL032
+    4300116: tulips 1203 XXL010
+    4300118: tulips 1203 XXL030
+    4300120: tulips 1203 M 001
+    4300122: tulips 1203 XXL028
+    4300124: tulips 1203 XXL027
+    4300126: tulips 1203 XXL026
+    4300128: Plane290
+    4300130: tulips 1203 XXL024
+    4300132: tulips 1203 XL013
+    4300134: tulips 1203 XXL022
+    4300136: tulips 1203 XXL021
+    4300138: tulips 1203 XXL020
+    4300140: tulips 1203 XXL019
+    4300142: tulips 1203 XXL018
+    4300144: tulips 1203 XXL017
+    4300146: tulips 1203 XXL016
+    4300148: tulips 1203 XXL015
+    4300150: Plane289
+    4300152: tulips 1203 XXL012
+    4300154: tulips 1203 XL016
+    4300156: Cylinder001
+    4300158: tulips 1203 M BUTON 003
+    4300160: tulips 1203 M BUTON 005
+    4300162: tulips 1203 M BUTON 006
+    4300164: Plane288
+    4300166: tulips 1203 XXL007
+    4300168: tulips 1203 M BUTON 017
+    4300170: Plane287
+    4300172: tulips 1203 XL012
+    4300174: Plane286
+    4300176: tulips 1203 XXL002
+    4300178: tulips 1203 XXL001
+    4300180: tulips 1203 S BUTON 005
+    4300182: tulips 1203 XL014
+    4300184: tulips 1203 M BUTON 015
+    4300186: tulips 1203 XXL004
+    4300188: tulips 1203 M BUTON 007
+    4300190: tulips 1203 M BUTON 018
+    4300192: Plane279
+    4300194: Plane280
+    4300196: tulips 1203 M BUTON 019
+    4300198: Plane281
+    4300200: Plane282
+    4300202: Plane283
+    4300204: Plane285
+    4300206: Plane284
+    4300208: tulips 1203 XL003
+    4300210: tulips 1203 XL007
+    4300212: tulips 1203 M BUTON 014
+    4300214: tulips 1203 XL011
+    4300216: 'tulips 1203 L BUTON '
+    4300218: tulips 1203 M BUTON 002
+    4300220: tulips 1203 M BUTON 013
+    4300222: tulips 1203 XL004
+    4300224: tulips 1203 M BUTON 010
+    4300226: tulips 1203 L BUTON 001
+    4300228: tulips 1203 XXL013
+    4300230: tulips 1203 XXL023
+    4300232: tulips 1203 XXL025
+    4300234: tulips 1203 XXL029
+    4300236: tulips 1203 XXL031
+    4300238: tulips 1203 XXL033
+    4300240: tulips 1203 XXL035
+    4300242: tulips 1203 S BUTON 002
+    4300244: tulips 1203 XXL037
+    4300246: tulips 1203 XL017
+    4300248: tulips 1203 XL018
+    4300250: tulips 1203 XL019
+    4300252: tulips 1203 XL020
+    4300254: tulips 1203 XL015
+    4300256: tulips 1203 M BUTON 001
+    4300258: tulips 1203 XL006
+    4300260: tulips 1203 M 002
+    4300262: tulips 1203 XL005
+    4300264: tulips 1203 XXL005
+    4300266: tulips 1203 XL002
+    4300268: tulips 1203 M BUTON 012
+    4300270: tulips 1203 XXL043
+    4300272: tulips 1203 M BUTON 011
+    4300274: tulips 1203 M BUTON 009
+    4300276: tulips 1203 L001
+    4300278: tulips 1203 S BUTON 001
+    4300280: tulips 1203 XXL047
+    4300282: tulips 1203 XL009
+    4300284: tulips 1203 M 003
+    4300286: tulips 1203 XL010
+    4300288: tulips 1203 XXL003
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

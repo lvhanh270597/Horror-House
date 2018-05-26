@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: cf208f839e012844ba43efd28bca3ee9
+timeCreated: 1523809679
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bath
+    100002: Box01
+    100004: Box02
+    100006: Box03
+    100008: Box04
+    100010: Box05
+    100012: Box06
+    100014: Box07
+    100016: Box08
+    100018: Box09
+    100020: Box11
+    100022: Box12
+    100024: Box13
+    100026: Box14
+    100028: ChamferCyl01
+    100030: Circle01
+    100032: Circle02
+    100034: //RootNode
+    100036: Line01
+    100038: Line02
+    100040: Line03
+    100042: Line04
+    100044: Line05
+    100046: Line06
+    100048: Rectangle01
+    100050: Rectangle02
+    100052: Sphere01
+    100054: Sphere02
+    100056: Sphere03
+    100058: Sphere04
+    100060: Sphere05
+    100062: VRayLight01
+    100064: VRayLight02
+    100066: VRayLight03
+    100068: VRayLight04
+    100070: VRayLight06
+    100072: VRayLight07
+    100074: VRayLight08
+    100076: VRayPhysicalCamera01
+    100078: VRayPhysicalCamera01.Target
+    100080: "\u0437\u0430\u0442\u044B\u0447\u043A\u0430"
+    100082: "\u0444\u043E\u043D"
+    400000: bath
+    400002: Box01
+    400004: Box02
+    400006: Box03
+    400008: Box04
+    400010: Box05
+    400012: Box06
+    400014: Box07
+    400016: Box08
+    400018: Box09
+    400020: Box11
+    400022: Box12
+    400024: Box13
+    400026: Box14
+    400028: ChamferCyl01
+    400030: Circle01
+    400032: Circle02
+    400034: //RootNode
+    400036: Line01
+    400038: Line02
+    400040: Line03
+    400042: Line04
+    400044: Line05
+    400046: Line06
+    400048: Rectangle01
+    400050: Rectangle02
+    400052: Sphere01
+    400054: Sphere02
+    400056: Sphere03
+    400058: Sphere04
+    400060: Sphere05
+    400062: VRayLight01
+    400064: VRayLight02
+    400066: VRayLight03
+    400068: VRayLight04
+    400070: VRayLight06
+    400072: VRayLight07
+    400074: VRayLight08
+    400076: VRayPhysicalCamera01
+    400078: VRayPhysicalCamera01.Target
+    400080: "\u0437\u0430\u0442\u044B\u0447\u043A\u0430"
+    400082: "\u0444\u043E\u043D"
+    2000000: VRayPhysicalCamera01
+    2100000: 21 - Default
+    2100002: 03 - Default
+    2100004: Chromium
+    2100006: wood
+    2100008: stone
+    2300000: Box01
+    2300002: Box02
+    2300004: Box03
+    2300006: Box04
+    2300008: Box05
+    2300010: Box06
+    2300012: Box07
+    2300014: Box08
+    2300016: Box09
+    2300018: Box11
+    2300020: Box12
+    2300022: Box13
+    2300024: Box14
+    2300026: ChamferCyl01
+    2300028: Circle01
+    2300030: Circle02
+    2300032: Line02
+    2300034: Line03
+    2300036: Line04
+    2300038: Line05
+    2300040: Line06
+    2300042: Rectangle01
+    2300044: Rectangle02
+    2300046: Sphere01
+    2300048: Sphere02
+    2300050: Sphere03
+    2300052: Sphere04
+    2300054: Sphere05
+    2300056: "\u0444\u043E\u043D"
+    3300000: Box01
+    3300002: Box02
+    3300004: Box03
+    3300006: Box04
+    3300008: Box05
+    3300010: Box06
+    3300012: Box07
+    3300014: Box08
+    3300016: Box09
+    3300018: Box11
+    3300020: Box12
+    3300022: Box13
+    3300024: Box14
+    3300026: ChamferCyl01
+    3300028: Circle01
+    3300030: Circle02
+    3300032: Line02
+    3300034: Line03
+    3300036: Line04
+    3300038: Line05
+    3300040: Line06
+    3300042: Rectangle01
+    3300044: Rectangle02
+    3300046: Sphere01
+    3300048: Sphere02
+    3300050: Sphere03
+    3300052: Sphere04
+    3300054: Sphere05
+    3300056: "\u0444\u043E\u043D"
+    4300000: "\u0444\u043E\u043D"
+    4300002: Rectangle01
+    4300004: Box01
+    4300006: Box02
+    4300008: Box03
+    4300010: Box04
+    4300012: Rectangle02
+    4300014: Box05
+    4300016: Box06
+    4300018: Box07
+    4300020: Box08
+    4300022: Box11
+    4300024: Box12
+    4300026: Box13
+    4300028: Box14
+    4300030: Line03
+    4300032: Line02
+    4300034: Sphere01
+    4300036: Sphere03
+    4300038: Sphere02
+    4300040: ChamferCyl01
+    4300042: Box09
+    4300044: Circle01
+    4300046: Line04
+    4300048: Circle02
+    4300050: Line05
+    4300052: Line06
+    4300054: Sphere04
+    4300056: Sphere05
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
